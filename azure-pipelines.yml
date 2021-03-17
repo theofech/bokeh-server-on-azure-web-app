@@ -11,7 +11,7 @@ variables:
   azureServiceConnectionId: 'x'
   
   # Web app name
-  webAppName: 'x'
+  webAppName: 'observatory'
 
   # Agent VM image name
   vmImageName: 'ubuntu-latest'
